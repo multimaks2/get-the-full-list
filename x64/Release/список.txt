@@ -1,0 +1,3 @@
+{getDirFile("audio\\getfullfile.exe",getConsolePath())},
+{getDirFile("audio\\getfullfile.exe.recipe",getConsolePath())},
+{getDirFile("audio\\список.txt",getConsolePath())},
