@@ -1,12 +1,24 @@
 #pragma once
 #include <fstream>
-#include <iostream>
 #include <filesystem>
 #include <Windows.h>
+#include <windows.h>
 #include <string>
 #include <vector>
 #include <filesystem>
-#include <windows.h>
+
+#include <psapi.h>
+#include <iostream>
+
+#pragma comment(lib, "user32.lib")
+#pragma comment(lib, "psapi.lib")
+
+
+
+
+
+
+
 
 auto outPutConsoleMessage(std::string msg)
 {

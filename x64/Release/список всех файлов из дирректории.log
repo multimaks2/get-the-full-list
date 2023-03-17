@@ -1,0 +1,11 @@
+﻿  getfullfile.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\SKYNET\Desktop\git\get-the-full-list\Header.h(35,19): warning C4244: инициализация: преобразование "const wchar_t" в "char", возможна потеря данных
+C:\Users\SKYNET\Desktop\git\get-the-full-list\Header.h(40,40): warning C4244: =: преобразование "const wchar_t" в "char", возможна потеря данных
+C:\Users\SKYNET\Desktop\git\get-the-full-list\Header.h(51,18): warning C4244: инициализация: преобразование "const wchar_t" в "char", возможна потеря данных
+  Создание кода
+  1 of 155 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  список всех файлов из дирректории.vcxproj -> C:\Users\SKYNET\Desktop\git\get-the-full-list\x64\Release\getfullfile.exe

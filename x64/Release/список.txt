@@ -1,3 +1,10 @@
-{getDirFile("audio\\getfullfile.exe",getConsolePath())},
-{getDirFile("audio\\getfullfile.exe.recipe",getConsolePath())},
-{getDirFile("audio\\список.txt",getConsolePath())},
+getfullfile.exe
+getfullfile.exe.recipe
+getfullfile.iobj
+getfullfile.ipdb
+getfullfile.obj
+getfullfile.pdb
+vc143.pdb
+список всех файлов из дирректории.log
+список всех файлов из дирректории.vcxproj.FileListAbsolute.txt
+список.txt
