@@ -4,8 +4,7 @@ C:\Users\SKYNET\Desktop\git\get-the-full-list\Header.h(35,19): warning C4244: и
 C:\Users\SKYNET\Desktop\git\get-the-full-list\Header.h(40,40): warning C4244: =: преобразование "const wchar_t" в "char", возможна потеря данных
 C:\Users\SKYNET\Desktop\git\get-the-full-list\Header.h(51,18): warning C4244: инициализация: преобразование "const wchar_t" в "char", возможна потеря данных
   Создание кода
-  1 of 155 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    0 functions had inline decision re-evaluated but remain unchanged
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 147 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Создание кода завершено
   список всех файлов из дирректории.vcxproj -> C:\Users\SKYNET\Desktop\git\get-the-full-list\x64\Release\getfullfile.exe

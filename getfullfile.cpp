@@ -1,4 +1,5 @@
 ﻿#include "Header.h"
+#include "data.h"
 
 const char* getConsolePath()
 {
@@ -95,8 +96,8 @@ int main()
     hook(iconPath);
 
     //createMeta();
-    parser();
-
+    //parser();
+    hueta();
    
 	noExit();
     return 0;
